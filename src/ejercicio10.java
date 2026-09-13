@@ -54,17 +54,17 @@ class ejercicio10 {
     //  }
 
     //EJERCICIO 5
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Ingrese un numero: ");
-        int numeroDeUsuario = scanner.nextInt();
+    //public static void main(String... args) {
+       // Scanner scanner = new Scanner(System.in);
+      //  System.out.println("Ingrese un numero: ");
+       // int numeroDeUsuario = scanner.nextInt();
 
-        int contador = 0;
-        for (int i = 1; i < numeroDeUsuario; i ++) {
-            if (i % 3 == 0){
-                contador++;
-            }
-        }
-        System.out.println(contador);
-    }
-}
+       // int contador = 0;
+       // for (int i = 1; i < numeroDeUsuario; i ++) {
+       //     if (i % 3 == 0){
+     //           contador++;
+      //      }
+      //  }
+      //  System.out.println(contador);
+   //}
+
